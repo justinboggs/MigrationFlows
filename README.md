@@ -1,7 +1,5 @@
 # SMUDS-Project-1
 
-#creating Justin branch
-
 Research Description: Money or Fun? 
 
 - Members: Jin Dai, Michael Gonzales, Alex Ledger, Joseph McManus, Justin Boggs
