@@ -1,7 +1,5 @@
 # SMUDS-Project-1
 
-#creating Justin branch
-
 Research Description: Money or Fun? 
 
 - Members: Jin Dai, Michael Gonzales, Alex Ledger, Joseph McManus, Justin Boggs
@@ -19,3 +17,4 @@ Research Description: Money or Fun?
 		○ Find data for recreational availability 
 		○ Clean and organize data
 Run correlation and regression analysis to determine if one dataset has a larger contribution to happiness data 
+
