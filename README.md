@@ -1,5 +1,12 @@
 # SMUDS-Project-1
 
+- HOW TO NAVIGATE THIS REPO: 
+		○ input_data: shows input data
+		○ output_data: shows output from the main file and plots.ipynb
+		○ main.ipynb: gather and cleans data, and give output file for plots.ipynb
+		○ plots.ipynb: visualize and give hypothesis testing and conclusions 
+		
+		
 Research Description: Financial Prospects and Migration Flows 
 
 - Members: Jin Dai, Michael Gonzales, Alex Ledger, Joseph McManus, Justin Boggs
@@ -17,4 +24,5 @@ Research Description: Financial Prospects and Migration Flows
 		○ Find data and aggregate financial data
 		○ Clean and organize data
 		○ Run correlation and regression analyses to determine if any or all of financial data contributes to migration inflows
+		
 
