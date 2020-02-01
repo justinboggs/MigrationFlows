@@ -1,20 +1,20 @@
 # SMUDS-Project-1
 
-Research Description: Money or Fun? 
+Research Description: Financial Prospects and Migration Flows 
 
 - Members: Jin Dai, Michael Gonzales, Alex Ledger, Joseph McManus, Justin Boggs
 
-- Is overall happiness of the 10 happiest U.S. cities more driven by financial health or recreational activity? 
+- Are financial prospects of a county a significant driver of population inflows to that county?  
 
-- Scope: Compare happiness of U.S. cities to a.) Financial health (average income), and b.) availability of recreation activity (parks, lakes, rivers, trails, gyms, etc.)
+- Scope: Compare financial data for top 50 counties in the U.S. to population flows, to determine if there is a statistically significant relationship between the two. 
 
 - Datasets to be used: 
-		○ Financial: demographic income data from government census data 
-		○ Recreation: google maps search results for recreation activity listed above 
+		○ Financial: The financial data evaluated include Total Adjusted Gross Income, Median home price, Average Rent cost, Unemployment Rate, Highest Marginal Income Tax Rate. Data sourced from government and industry association sources. 
+		○ Population flows: Migration data from the IRS 
 
 - Tasks: 
-		○ Find and aggregate poll data for happiness
-		○ Find data for recreational availability 
+		○ Find and aggregate migration flows data
+		○ Find data and aggregate financial data
 		○ Clean and organize data
-Run correlation and regression analysis to determine if one dataset has a larger contribution to happiness data 
+		○ Run correlation and regression analyses to determine if any or all of financial data contributes to migration inflows
 
