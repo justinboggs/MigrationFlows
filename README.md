@@ -1,5 +1,7 @@
 # SMUDS-Project-1
 
+![](project1.png)
+
 - HOW TO NAVIGATE THIS REPO: 
 		○ input_data: shows input data
 		○ output_data: shows output from the main file and plots.ipynb
