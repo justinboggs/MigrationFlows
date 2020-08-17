@@ -29,5 +29,6 @@ Research Description: Financial Prospects and Migration Flows
 		○ Find data and aggregate financial data
 		○ Clean and organize data
 		○ Run correlation and regression analyses to determine if any or all of financial data contributes to migration inflows
-		
+
+![](output_data/migration_tax_regress.png)		
 
